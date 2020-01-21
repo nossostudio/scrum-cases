@@ -18,4 +18,12 @@ Nessa reunião, o mais importante resultado foi um documento feito no formado _X
 
 Isso mesmo, se você é familiar com o framework proposto pelo SCRUM, essas cerimônias são conhecidas. É interessante que esses tópicos foram propostos e registrados na reunião sem dificuldades, sem crise, sem choro. Portanto, esses ritos são desejáveis pelos presentes na reunião. Mas quais são os ritos que **não são** desejáveis? 
 
-A resposta está no **relacionamento com o cliente**. Sem dúvidas a equipe de Gestão de Projetos não deseja alterar o processo atual de relacionamento com o cliente, mas o SCRUM é baseado em um princípio de relacionamento ativo, constante e interativo com o cliente. 
+A resposta está no **relacionamento com o cliente**. Sem dúvidas a equipe de Gestão de Projetos não deseja alterar o processo atual de relacionamento com o cliente, mas o SCRUM é baseado em um princípio de relacionamento ativo, constante e interativo com o cliente.
+
+## Quando seu colega de time que diz querer adotar o SCRUM não se rende
+
+Nessa reunião, estavam presentes outros colegas do time de desenvolvimento mobile. Um deles gosta da ideia de SCRUM e até manifestou interesse em ser PO em outra oportunidade há uns 6 meses atrás. No entanto, nessa reunião, esse colega fez a seguinte pergunta:
+
+> Quais são os benefícios de adotar o SCRUM se não for o SCRUM real? Do que adianta adotar o SCRUM apenas para o time de pesquisa e desenvolvimento (P&D)?
+
+Eu não sei a resposta correta para essa pergunta, mas tenho a inclinação para acreditar que os benefícios existem ao adotar partes das cerimônias apresentadas pelo SCRUM. Não é a mesma coisa que adotar todas as propostas do SCRUM, como envolver o cliente interando no processo de desenvolvimento. Mas é melhor adotar certas cerimônias como _Daily meeting_ baseado na ideia de interação entre a equipe, do que ficar sem interação e processo de transparência e acompanhamento definido.
