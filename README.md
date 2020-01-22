@@ -27,3 +27,7 @@ Nessa reunião, estavam presentes outros colegas do time de desenvolvimento mobi
 > Quais são os benefícios de adotar o SCRUM se não for o SCRUM real? Do que adianta adotar o SCRUM apenas para o time de pesquisa e desenvolvimento (P&D)?
 
 Eu não sei a resposta correta para essa pergunta, mas tenho a inclinação para acreditar que os benefícios existem ao adotar partes das cerimônias apresentadas pelo SCRUM. Não é a mesma coisa que adotar todas as propostas do SCRUM, como envolver o cliente interando no processo de desenvolvimento. Mas é melhor adotar certas cerimônias como _Daily meeting_ baseado na ideia de interação entre a equipe, do que ficar sem interação e processo de transparência e acompanhamento definido.
+
+Sobre essa dúvida, parece que a sprint é o motor do SCRUM. Logo, podemos aproveitar o motor sem aproveitar as rodas de um carro?
+
+> O coração do Scrum é a Sprint. (https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf, pag. 9)
